@@ -71,18 +71,19 @@ Wednesday focuses on writing reusable PowerShell code. You'll learn how to creat
 functions, package them into script modules, explore the PowerShell ecosystem, and validate your
 code using Pester. The day concludes with lightning demos.
 
-|  Schedule   |            Event             |   Location    |     Speaker     |
-| ----------: | ---------------------------- | ------------- | --------------- |
-|   8:00-9:00 | Breakfast                    | Center Hall B |                 |
-|   9:00-9:15 | Announcements                | Center Hall B |                 |
-|  9:15-10:15 | State of the Shell           | Center Hall B |                 |
-| 10:15-10:45 | Break                        | Center Hall B |                 |
-| 10:45-11:30 | Advanced Functions & Tooling | Room 409      | Mike F. Robbins |
-| 11:30-12:30 | Lunch                        | Center Hall B |                 |
-|  12:30-2:15 | Script Modules               | Room 409      | Mike F. Robbins |
-|   2:15-2:45 | Break                        | Center Hall B |                 |
-|   2:45-3:30 | Pester                       | Room 409      | Rob Pleau       |
-|   3:45-5:15 | Lightning Demos              | Center Hall B |                 |
+|  Schedule   |            Event             |        Location         |     Speaker     |
+| ----------: | ---------------------------- | ----------------------- | --------------- |
+|   8:00-9:00 | Breakfast                    | Center Hall B           |                 |
+|   9:00-9:15 | Announcements                | Center Hall B           |                 |
+|  9:15-10:15 | State of the Shell           | Center Hall B           |                 |
+| 10:15-10:45 | Break                        | Center Hall B           |                 |
+| 10:45-11:30 | Advanced Functions & Tooling | Room 409                | Mike F. Robbins |
+| 11:30-12:30 | Lunch                        | Center Hall B           |                 |
+|  12:30-2:15 | Script Modules               | Room 409                | Mike F. Robbins |
+|   2:15-2:45 | Break                        | Center Hall B           |                 |
+|   2:45-3:30 | Pester                       | Room 409                | Rob Pleau       |
+|   3:45-5:15 | Lightning Demos              | Center Hall B           |                 |
+|   6:00-9:00 | Summit Party                 | See conference schedule |                 |
 
 By the end of the day, you'll know how to build modules, test code with Pester, and use tooling to
 improve reliability and productivity.

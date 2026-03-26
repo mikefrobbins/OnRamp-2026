@@ -32,7 +32,7 @@ conference Slack channels are also available for broader networking.
 
 Slides, sample code, and supporting materials are published to GitHub:
 
-➡️ [OnRamp 2026 GitHub repository][onramp-repo]
+➡️ [OnRamp 2026 Session Materials][session-materials]
 
 Content is updated throughout the week, with a finalized version available shortly after the program
 concludes.
@@ -93,7 +93,7 @@ practical skills, increased confidence, and a clear next step in their IT automa
 
 <!-- link references -->
 
-[onramp-repo]: https://github.com/devops-collective-inc/OnRamp-2026
+[session-materials]: https://github.com/devops-collective-inc/OnRamp-2026/tree/main/session-material
 [summit-website]: https://powershellsummit.org
 [mikefrobbins-com]: https://mikefrobbins.com/
 [steven-blog]: https://blog.stevenjudd.com/
