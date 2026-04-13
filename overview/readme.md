@@ -32,5 +32,3 @@ If you're new to the repository:
 1. Read the **Learning Objectives**
 1. Bookmark **[Next Steps](nextsteps.md)** for after the program for guidance on applying what you
    learned, engaging with the PowerShell community, and continuing your growth after OnRamp.
-
-We're glad you're here. Welcome to OnRamp.
