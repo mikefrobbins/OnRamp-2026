@@ -161,13 +161,13 @@ Get-Command -Name Get-Help, help, man
 Get-Help -Name Stop-Process
 
 # Use the help function. The Name parameter is being used positionally
-help Stop-Process  
+help Stop-Process
 
 # To see examples of how to use a cmdlet, use the Examples parameter
 help Stop-Process -Examples
 
 # Find help about a specific parameter
-help Stop-Process -Parameter Name 
+help Stop-Process -Parameter Name
 
 # To see all information that Get-Help provides about a command, use the Full parameter.
 # This includes all the details, parameters, inputs, outputs, notes, and examples.
